@@ -1,11 +1,6 @@
 # Blog settings
 # permalink: /blog/:title
 
-collections:
-  posts:
-    output: true
-    permalink: /blog/:title
-
 
 # My variables
 name: Luis Echegaray
