@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1 - Denmark - Land of Bikes and Sandwiches
+title: Day 1 - Denmark
 ---
 
 **TL;DR** The greatest of plans of catching up with Dockercon videos, Copenhagen land of bikes and sandwiches, and cool AirBnB
@@ -16,3 +16,6 @@ PUT NAME HERE, we have traditional sandwiches which are open faced and have chas
 
 # Write blog posts
 Forcing myself to use only VIM and writing instead of taking power naps, I want to be in a profound sleep tonight to shake off any time lag.
+
+# Evening Dinner
+Like woah!
