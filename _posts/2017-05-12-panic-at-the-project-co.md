@@ -15,6 +15,9 @@ Ok, how about an ssh client on you iPad to do some badass ops work and VIM it up
 
 Then you realize, your dudes are competent, nothing will fall apart and you spent a lot of time looking up and testing tools instead of training your peeps in one more thing.
 
+# Write blog posts
+But that would be boring! You assembled the avengers of iPad tools and you will USE THEM. OK BLOG TIME!
+
 *Server*:
 
 * Node.js - main scripting language
@@ -23,3 +26,5 @@ Then you realize, your dudes are competent, nothing will fall apart and you spen
 Server: [https://github.com/getmicah/myapp-api](https://github.com/getmicah/myapp-api)
 
 Client: [https://github.com/getmicah/myapp-app](https://github.com/getmicah/myapp-app)
+
+![Image of Docker Video](asset.png)
