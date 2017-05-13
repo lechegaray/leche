@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1: Denmark and "Sandwiches"
+title: Day 1: Denmark and Sandwiches
 ---
 
 **TL;DR** The greatest of plans of catching up with Dockercon videos, Copenhagen land of bikes and sandwiches, and cool AirBnB
