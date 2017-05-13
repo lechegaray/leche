@@ -27,4 +27,4 @@ Server: [https://github.com/getmicah/myapp-api](https://github.com/getmicah/myap
 
 Client: [https://github.com/getmicah/myapp-app](https://github.com/getmicah/myapp-app)
 
-![Image of Docker Video]({{ site.url }}assets/img/asset.png)
+![Image of Docker Video]({{ site.url }}/assets/img/asset.png)
