@@ -13,6 +13,12 @@ Restaurant Schonnemann (http://www.restaurantschonnemann.dk), we had traditional
 
 _post picture of openfaced sandwich_
 
+# AirBnB
+
+My AirBnB is sick.  +1 for Photographers apartment sense.
+
+_post pic of airbnb_
+
 # Evening Dinner
 Pony (http://www.ponykbh.dk), 3 course dinner but the highlight was their fresh bread with butter cream. Lord.
 
